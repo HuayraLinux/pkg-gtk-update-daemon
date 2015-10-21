@@ -1,2 +1,5 @@
 version=3
-https://github.com/matiasdelellis/gtk-updates-daemon/tags .*/v(\d[\d\.]+)\.tar\.gz
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.bz2/gtk-updates-daemon-$1\.tar\.bz2/ \
+https://github.com/matiasdelellis/gtk-updates-daemon/releases .*/gtk-updates-daemon-?(\d\S*)\.tar\.bz2
+
+
