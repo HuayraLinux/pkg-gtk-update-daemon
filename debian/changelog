@@ -1,3 +1,17 @@
+pk-updates-notifier (0.2.0-1) torbellino; urgency=medium
+
+  * Rename to pk-updates-notifier.
+  * Not depend on gtk.
+  * Add some options to enable, timeout, etc.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 09 Mar 2016 11:08:12 -0300
+
+gtk-updates-daemon (0.1.92-1) unstable; urgency=medium
+
+  * Update to last release.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 30 Oct 2015 12:24:05 -0300
+
 gtk-updates-daemon (0.1.91-1) unstable; urgency=medium
 
   * Initial release.

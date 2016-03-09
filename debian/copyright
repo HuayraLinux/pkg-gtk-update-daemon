@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: gtk-update-daemon
+Upstream-Name: pk-updates-notifier
 Source: 
 
 Files: *
-Copyright: 2015 Matias De Lellis
+Copyright: 2015-2016 Matias De Lellis
 License: GPL-3.0+
 
 Files: debian/*
